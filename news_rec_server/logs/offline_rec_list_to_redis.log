@@ -1,0 +1,531 @@
+2024-03-25-00-09-59
+run /home/harry/miniconda3/envs/news_rec_py3/bin/python /home/harry/fun-rec/codes/news_recsys/news_rec_server/recprocess/offline.py fail.
+ 
+2024-03-27-00-12-25
+a hot rec list are saved into redis.....
+类别 国内 的 新闻数量为 38
+类别 娱乐 的 新闻数量为 0
+类别 体育 的 新闻数量为 306
+类别 科技 的 新闻数量为 127
+类别 国内 的 新闻数量为 38
+类别 社会 的 新闻数量为 5
+类别 美股 的 新闻数量为 0
+类别 财经 的 新闻数量为 1184
+类别 股市 的 新闻数量为 906
+类别 国内 的 新闻数量为 38
+类别 股市 的 新闻数量为 906
+类别 体育 的 新闻数量为 306
+类别 科技 的 新闻数量为 127
+类别 国际 的 新闻数量为 23
+类别 国内 的 新闻数量为 38
+类别 军事 的 新闻数量为 0
+类别 社会 的 新闻数量为 5
+类别 美股 的 新闻数量为 0
+类别 财经 的 新闻数量为 1184
+类别 股市 的 新闻数量为 906
+run /home/harry/miniconda3/envs/news_rec_py3/bin/python /home/harry/fun-rec/codes/news_recsys/news_rec_server/recprocess/offline.py success.
+ 
+2024-03-28-00-12-10
+a hot rec list are saved into redis.....
+类别 国内 的 新闻数量为 43
+类别 娱乐 的 新闻数量为 1
+类别 体育 的 新闻数量为 425
+类别 科技 的 新闻数量为 347
+类别 国内 的 新闻数量为 43
+类别 社会 的 新闻数量为 8
+类别 美股 的 新闻数量为 5
+类别 财经 的 新闻数量为 2580
+类别 股市 的 新闻数量为 2136
+类别 国内 的 新闻数量为 43
+类别 股市 的 新闻数量为 2136
+类别 体育 的 新闻数量为 425
+类别 科技 的 新闻数量为 347
+类别 国际 的 新闻数量为 29
+类别 国内 的 新闻数量为 43
+类别 军事 的 新闻数量为 0
+类别 社会 的 新闻数量为 8
+类别 美股 的 新闻数量为 5
+类别 财经 的 新闻数量为 2580
+类别 股市 的 新闻数量为 2136
+run /home/harry/miniconda3/envs/news_rec_py3/bin/python /home/harry/fun-rec/codes/news_recsys/news_rec_server/recprocess/offline.py success.
+ 
+2024-03-29-11-11-37
+a hot rec list are saved into redis.....
+类别 国内 的 新闻数量为 55
+类别 娱乐 的 新闻数量为 1
+类别 体育 的 新闻数量为 587
+类别 科技 的 新闻数量为 566
+类别 国内 的 新闻数量为 55
+类别 社会 的 新闻数量为 10
+类别 美股 的 新闻数量为 10
+类别 财经 的 新闻数量为 3890
+类别 股市 的 新闻数量为 3039
+类别 国内 的 新闻数量为 55
+类别 股市 的 新闻数量为 3039
+类别 体育 的 新闻数量为 587
+类别 科技 的 新闻数量为 566
+类别 国际 的 新闻数量为 41
+类别 国内 的 新闻数量为 55
+类别 军事 的 新闻数量为 0
+类别 社会 的 新闻数量为 10
+类别 美股 的 新闻数量为 10
+类别 财经 的 新闻数量为 3890
+类别 股市 的 新闻数量为 3039
+run /home/harry/miniconda3/envs/news_rec_py3/bin/python /home/harry/fun-rec/codes/news_recsys/news_rec_server/recprocess/offline.py success.
+ 
+2024-03-30-00-12-47
+a hot rec list are saved into redis.....
+类别 国内 的 新闻数量为 62
+类别 娱乐 的 新闻数量为 1
+类别 体育 的 新闻数量为 742
+类别 科技 的 新闻数量为 848
+类别 国内 的 新闻数量为 62
+类别 社会 的 新闻数量为 11
+类别 美股 的 新闻数量为 10
+类别 财经 的 新闻数量为 4971
+类别 股市 的 新闻数量为 4458
+类别 国内 的 新闻数量为 62
+类别 股市 的 新闻数量为 4458
+类别 体育 的 新闻数量为 742
+类别 科技 的 新闻数量为 848
+类别 国际 的 新闻数量为 49
+类别 国内 的 新闻数量为 62
+类别 军事 的 新闻数量为 0
+类别 社会 的 新闻数量为 11
+类别 美股 的 新闻数量为 10
+类别 财经 的 新闻数量为 4971
+类别 股市 的 新闻数量为 4458
+run /home/harry/miniconda3/envs/news_rec_py3/bin/python /home/harry/fun-rec/codes/news_recsys/news_rec_server/recprocess/offline.py success.
+ 
+2024-04-01-00-10-43
+a hot rec list are saved into redis.....
+类别 国内 的 新闻数量为 63
+类别 娱乐 的 新闻数量为 1
+类别 体育 的 新闻数量为 983
+类别 科技 的 新闻数量为 913
+类别 国内 的 新闻数量为 63
+类别 社会 的 新闻数量为 11
+类别 美股 的 新闻数量为 10
+类别 财经 的 新闻数量为 5191
+类别 股市 的 新闻数量为 4776
+类别 国内 的 新闻数量为 63
+类别 股市 的 新闻数量为 4776
+类别 体育 的 新闻数量为 983
+类别 科技 的 新闻数量为 913
+类别 国际 的 新闻数量为 51
+类别 国内 的 新闻数量为 63
+类别 军事 的 新闻数量为 0
+类别 社会 的 新闻数量为 11
+类别 美股 的 新闻数量为 10
+类别 财经 的 新闻数量为 5191
+类别 股市 的 新闻数量为 4776
+run /home/harry/miniconda3/envs/news_rec_py3/bin/python /home/harry/fun-rec/codes/news_recsys/news_rec_server/recprocess/offline.py success.
+ 
+2024-04-02-00-11-31
+a hot rec list are saved into redis.....
+类别 国内 的 新闻数量为 74
+类别 娱乐 的 新闻数量为 2
+类别 体育 的 新闻数量为 1206
+类别 科技 的 新闻数量为 1094
+类别 国内 的 新闻数量为 74
+类别 社会 的 新闻数量为 15
+类别 美股 的 新闻数量为 10
+类别 财经 的 新闻数量为 5802
+类别 股市 的 新闻数量为 5516
+类别 国内 的 新闻数量为 74
+类别 股市 的 新闻数量为 5516
+类别 体育 的 新闻数量为 1206
+类别 科技 的 新闻数量为 1094
+类别 国际 的 新闻数量为 53
+类别 国内 的 新闻数量为 74
+类别 军事 的 新闻数量为 0
+类别 社会 的 新闻数量为 15
+类别 美股 的 新闻数量为 10
+类别 财经 的 新闻数量为 5802
+类别 股市 的 新闻数量为 5516
+run /home/harry/miniconda3/envs/news_rec_py3/bin/python /home/harry/fun-rec/codes/news_recsys/news_rec_server/recprocess/offline.py success.
+ 
+2024-04-03-00-12-48
+a hot rec list are saved into redis.....
+类别 国内 的 新闻数量为 82
+类别 娱乐 的 新闻数量为 2
+类别 体育 的 新闻数量为 1343
+类别 科技 的 新闻数量为 1270
+类别 国内 的 新闻数量为 82
+类别 社会 的 新闻数量为 18
+类别 美股 的 新闻数量为 10
+类别 财经 的 新闻数量为 6758
+类别 股市 的 新闻数量为 6385
+类别 国内 的 新闻数量为 82
+类别 股市 的 新闻数量为 6385
+类别 体育 的 新闻数量为 1343
+类别 科技 的 新闻数量为 1270
+类别 国际 的 新闻数量为 59
+类别 国内 的 新闻数量为 82
+类别 军事 的 新闻数量为 0
+类别 社会 的 新闻数量为 18
+类别 美股 的 新闻数量为 10
+类别 财经 的 新闻数量为 6758
+类别 股市 的 新闻数量为 6385
+run /home/harry/miniconda3/envs/news_rec_py3/bin/python /home/harry/fun-rec/codes/news_recsys/news_rec_server/recprocess/offline.py success.
+ 
+2024-04-04-00-13-38
+a hot rec list are saved into redis.....
+类别 国内 的 新闻数量为 101
+类别 娱乐 的 新闻数量为 5
+类别 体育 的 新闻数量为 1520
+类别 科技 的 新闻数量为 1369
+类别 国内 的 新闻数量为 101
+类别 社会 的 新闻数量为 23
+类别 美股 的 新闻数量为 11
+类别 财经 的 新闻数量为 7484
+类别 股市 的 新闻数量为 7054
+类别 国内 的 新闻数量为 101
+类别 股市 的 新闻数量为 7054
+类别 体育 的 新闻数量为 1520
+类别 科技 的 新闻数量为 1369
+类别 国际 的 新闻数量为 63
+类别 国内 的 新闻数量为 101
+类别 军事 的 新闻数量为 0
+类别 社会 的 新闻数量为 23
+类别 美股 的 新闻数量为 11
+类别 财经 的 新闻数量为 7484
+类别 股市 的 新闻数量为 7054
+run /home/harry/miniconda3/envs/news_rec_py3/bin/python /home/harry/fun-rec/codes/news_recsys/news_rec_server/recprocess/offline.py success.
+ 
+2024-04-05-00-13-16
+a hot rec list are saved into redis.....
+类别 国内 的 新闻数量为 104
+类别 娱乐 的 新闻数量为 5
+类别 体育 的 新闻数量为 1598
+类别 科技 的 新闻数量为 1371
+类别 国内 的 新闻数量为 104
+类别 社会 的 新闻数量为 23
+类别 美股 的 新闻数量为 11
+类别 财经 的 新闻数量为 7665
+类别 股市 的 新闻数量为 7111
+类别 国内 的 新闻数量为 104
+类别 股市 的 新闻数量为 7111
+类别 体育 的 新闻数量为 1598
+类别 科技 的 新闻数量为 1371
+类别 国际 的 新闻数量为 63
+类别 国内 的 新闻数量为 104
+类别 军事 的 新闻数量为 0
+类别 社会 的 新闻数量为 23
+类别 美股 的 新闻数量为 11
+类别 财经 的 新闻数量为 7665
+类别 股市 的 新闻数量为 7111
+run /home/harry/miniconda3/envs/news_rec_py3/bin/python /home/harry/fun-rec/codes/news_recsys/news_rec_server/recprocess/offline.py success.
+ 
+2024-04-06-00-12-17
+a hot rec list are saved into redis.....
+类别 国内 的 新闻数量为 107
+类别 娱乐 的 新闻数量为 5
+类别 体育 的 新闻数量为 1689
+类别 科技 的 新闻数量为 1375
+类别 国内 的 新闻数量为 107
+类别 社会 的 新闻数量为 28
+类别 美股 的 新闻数量为 11
+类别 财经 的 新闻数量为 7939
+类别 股市 的 新闻数量为 7167
+类别 国内 的 新闻数量为 107
+类别 股市 的 新闻数量为 7167
+类别 体育 的 新闻数量为 1689
+类别 科技 的 新闻数量为 1375
+类别 国际 的 新闻数量为 65
+类别 国内 的 新闻数量为 107
+类别 军事 的 新闻数量为 0
+类别 社会 的 新闻数量为 28
+类别 美股 的 新闻数量为 11
+类别 财经 的 新闻数量为 7939
+类别 股市 的 新闻数量为 7167
+run /home/harry/miniconda3/envs/news_rec_py3/bin/python /home/harry/fun-rec/codes/news_recsys/news_rec_server/recprocess/offline.py success.
+ 
+2024-04-07-00-14-08
+a hot rec list are saved into redis.....
+类别 国内 的 新闻数量为 111
+类别 娱乐 的 新闻数量为 5
+类别 体育 的 新闻数量为 1787
+类别 科技 的 新闻数量为 1386
+类别 国内 的 新闻数量为 111
+类别 社会 的 新闻数量为 29
+类别 美股 的 新闻数量为 11
+类别 财经 的 新闻数量为 8015
+类别 股市 的 新闻数量为 7195
+类别 国内 的 新闻数量为 111
+类别 股市 的 新闻数量为 7195
+类别 体育 的 新闻数量为 1787
+类别 科技 的 新闻数量为 1386
+类别 国际 的 新闻数量为 69
+类别 国内 的 新闻数量为 111
+类别 军事 的 新闻数量为 0
+类别 社会 的 新闻数量为 29
+类别 美股 的 新闻数量为 11
+类别 财经 的 新闻数量为 8015
+类别 股市 的 新闻数量为 7195
+run /home/harry/miniconda3/envs/news_rec_py3/bin/python /home/harry/fun-rec/codes/news_recsys/news_rec_server/recprocess/offline.py success.
+ 
+2024-04-08-00-13-08
+a hot rec list are saved into redis.....
+类别 国内 的 新闻数量为 114
+类别 娱乐 的 新闻数量为 5
+类别 体育 的 新闻数量为 1943
+类别 科技 的 新闻数量为 1611
+类别 国内 的 新闻数量为 114
+类别 社会 的 新闻数量为 33
+类别 美股 的 新闻数量为 11
+类别 财经 的 新闻数量为 8342
+类别 股市 的 新闻数量为 7623
+类别 国内 的 新闻数量为 114
+类别 股市 的 新闻数量为 7623
+类别 体育 的 新闻数量为 1943
+类别 科技 的 新闻数量为 1611
+类别 国际 的 新闻数量为 74
+类别 国内 的 新闻数量为 114
+类别 军事 的 新闻数量为 0
+类别 社会 的 新闻数量为 33
+类别 美股 的 新闻数量为 11
+类别 财经 的 新闻数量为 8342
+类别 股市 的 新闻数量为 7623
+run /home/harry/miniconda3/envs/news_rec_py3/bin/python /home/harry/fun-rec/codes/news_recsys/news_rec_server/recprocess/offline.py success.
+ 
+2024-04-09-00-15-33
+a hot rec list are saved into redis.....
+类别 国内 的 新闻数量为 134
+类别 娱乐 的 新闻数量为 6
+类别 体育 的 新闻数量为 2100
+类别 科技 的 新闻数量为 1749
+类别 国内 的 新闻数量为 134
+类别 社会 的 新闻数量为 35
+类别 美股 的 新闻数量为 11
+类别 财经 的 新闻数量为 9360
+类别 股市 的 新闻数量为 8506
+类别 国内 的 新闻数量为 134
+类别 股市 的 新闻数量为 8506
+类别 体育 的 新闻数量为 2100
+类别 科技 的 新闻数量为 1749
+类别 国际 的 新闻数量为 80
+类别 国内 的 新闻数量为 134
+类别 军事 的 新闻数量为 0
+类别 社会 的 新闻数量为 35
+类别 美股 的 新闻数量为 11
+类别 财经 的 新闻数量为 9360
+类别 股市 的 新闻数量为 8506
+run /home/harry/miniconda3/envs/news_rec_py3/bin/python /home/harry/fun-rec/codes/news_recsys/news_rec_server/recprocess/offline.py success.
+ 
+2024-04-10-00-14-20
+a hot rec list are saved into redis.....
+类别 国内 的 新闻数量为 135
+类别 娱乐 的 新闻数量为 7
+类别 体育 的 新闻数量为 2235
+类别 科技 的 新闻数量为 1934
+类别 国内 的 新闻数量为 135
+类别 社会 的 新闻数量为 35
+类别 美股 的 新闻数量为 11
+类别 财经 的 新闻数量为 10301
+类别 股市 的 新闻数量为 10025
+类别 国内 的 新闻数量为 135
+类别 股市 的 新闻数量为 10025
+类别 体育 的 新闻数量为 2235
+类别 科技 的 新闻数量为 1934
+类别 国际 的 新闻数量为 80
+类别 国内 的 新闻数量为 135
+类别 军事 的 新闻数量为 0
+类别 社会 的 新闻数量为 35
+类别 美股 的 新闻数量为 11
+类别 财经 的 新闻数量为 10301
+类别 股市 的 新闻数量为 10025
+run /home/harry/miniconda3/envs/news_rec_py3/bin/python /home/harry/fun-rec/codes/news_recsys/news_rec_server/recprocess/offline.py success.
+ 
+2024-04-11-00-17-50
+a hot rec list are saved into redis.....
+类别 国内 的 新闻数量为 152
+类别 娱乐 的 新闻数量为 10
+类别 体育 的 新闻数量为 2416
+类别 科技 的 新闻数量为 2095
+类别 国内 的 新闻数量为 152
+类别 社会 的 新闻数量为 39
+类别 美股 的 新闻数量为 11
+类别 财经 的 新闻数量为 11254
+类别 股市 的 新闻数量为 11269
+类别 国内 的 新闻数量为 152
+类别 股市 的 新闻数量为 11269
+类别 体育 的 新闻数量为 2416
+类别 科技 的 新闻数量为 2095
+类别 国际 的 新闻数量为 86
+类别 国内 的 新闻数量为 152
+类别 军事 的 新闻数量为 0
+类别 社会 的 新闻数量为 39
+类别 美股 的 新闻数量为 11
+类别 财经 的 新闻数量为 11254
+类别 股市 的 新闻数量为 11269
+run /home/harry/miniconda3/envs/news_rec_py3/bin/python /home/harry/fun-rec/codes/news_recsys/news_rec_server/recprocess/offline.py success.
+ 
+2024-04-12-00-14-44
+a hot rec list are saved into redis.....
+类别 国内 的 新闻数量为 160
+类别 娱乐 的 新闻数量为 10
+类别 体育 的 新闻数量为 2602
+类别 科技 的 新闻数量为 2161
+类别 国内 的 新闻数量为 160
+类别 社会 的 新闻数量为 42
+类别 美股 的 新闻数量为 13
+类别 财经 的 新闻数量为 12358
+类别 股市 的 新闻数量为 12823
+类别 国内 的 新闻数量为 160
+类别 股市 的 新闻数量为 12823
+类别 体育 的 新闻数量为 2602
+类别 科技 的 新闻数量为 2161
+类别 国际 的 新闻数量为 95
+类别 国内 的 新闻数量为 160
+类别 军事 的 新闻数量为 0
+类别 社会 的 新闻数量为 42
+类别 美股 的 新闻数量为 13
+类别 财经 的 新闻数量为 12358
+类别 股市 的 新闻数量为 12823
+run /home/harry/miniconda3/envs/news_rec_py3/bin/python /home/harry/fun-rec/codes/news_recsys/news_rec_server/recprocess/offline.py success.
+ 
+2024-04-13-00-16-24
+a hot rec list are saved into redis.....
+类别 国内 的 新闻数量为 181
+类别 娱乐 的 新闻数量为 10
+类别 体育 的 新闻数量为 2711
+类别 科技 的 新闻数量为 2289
+类别 国内 的 新闻数量为 181
+类别 社会 的 新闻数量为 48
+类别 美股 的 新闻数量为 14
+类别 财经 的 新闻数量为 13729
+类别 股市 的 新闻数量为 14197
+类别 国内 的 新闻数量为 181
+类别 股市 的 新闻数量为 14197
+类别 体育 的 新闻数量为 2711
+类别 科技 的 新闻数量为 2289
+类别 国际 的 新闻数量为 103
+类别 国内 的 新闻数量为 181
+类别 军事 的 新闻数量为 0
+类别 社会 的 新闻数量为 48
+类别 美股 的 新闻数量为 14
+类别 财经 的 新闻数量为 13729
+类别 股市 的 新闻数量为 14197
+run /home/harry/miniconda3/envs/news_rec_py3/bin/python /home/harry/fun-rec/codes/news_recsys/news_rec_server/recprocess/offline.py success.
+ 
+2024-04-14-00-16-12
+a hot rec list are saved into redis.....
+类别 国内 的 新闻数量为 198
+类别 娱乐 的 新闻数量为 10
+类别 体育 的 新闻数量为 2874
+类别 科技 的 新闻数量为 2296
+类别 国内 的 新闻数量为 198
+类别 社会 的 新闻数量为 49
+类别 美股 的 新闻数量为 14
+类别 财经 的 新闻数量为 13845
+类别 股市 的 新闻数量为 14287
+类别 国内 的 新闻数量为 198
+类别 股市 的 新闻数量为 14287
+类别 体育 的 新闻数量为 2874
+类别 科技 的 新闻数量为 2296
+类别 国际 的 新闻数量为 110
+类别 国内 的 新闻数量为 198
+类别 军事 的 新闻数量为 0
+类别 社会 的 新闻数量为 49
+类别 美股 的 新闻数量为 14
+类别 财经 的 新闻数量为 13845
+类别 股市 的 新闻数量为 14287
+run /home/harry/miniconda3/envs/news_rec_py3/bin/python /home/harry/fun-rec/codes/news_recsys/news_rec_server/recprocess/offline.py success.
+ 
+2024-04-15-00-19-53
+a hot rec list are saved into redis.....
+类别 国内 的 新闻数量为 200
+类别 娱乐 的 新闻数量为 10
+类别 体育 的 新闻数量为 2966
+类别 科技 的 新闻数量为 2298
+类别 国内 的 新闻数量为 200
+类别 社会 的 新闻数量为 49
+类别 美股 的 新闻数量为 15
+类别 财经 的 新闻数量为 13993
+类别 股市 的 新闻数量为 14508
+类别 国内 的 新闻数量为 200
+类别 股市 的 新闻数量为 14508
+类别 体育 的 新闻数量为 2966
+类别 科技 的 新闻数量为 2298
+类别 国际 的 新闻数量为 114
+类别 国内 的 新闻数量为 200
+类别 军事 的 新闻数量为 0
+类别 社会 的 新闻数量为 49
+类别 美股 的 新闻数量为 15
+类别 财经 的 新闻数量为 13993
+类别 股市 的 新闻数量为 14508
+run /home/harry/miniconda3/envs/news_rec_py3/bin/python /home/harry/fun-rec/codes/news_recsys/news_rec_server/recprocess/offline.py success.
+ 
+2024-04-16-00-16-57
+a hot rec list are saved into redis.....
+类别 国内 的 新闻数量为 216
+类别 娱乐 的 新闻数量为 12
+类别 体育 的 新闻数量为 3155
+类别 科技 的 新闻数量为 2419
+类别 国内 的 新闻数量为 216
+类别 社会 的 新闻数量为 56
+类别 美股 的 新闻数量为 15
+类别 财经 的 新闻数量为 14996
+类别 股市 的 新闻数量为 15775
+类别 国内 的 新闻数量为 216
+类别 股市 的 新闻数量为 15775
+类别 体育 的 新闻数量为 3155
+类别 科技 的 新闻数量为 2419
+类别 国际 的 新闻数量为 128
+类别 国内 的 新闻数量为 216
+类别 军事 的 新闻数量为 0
+类别 社会 的 新闻数量为 56
+类别 美股 的 新闻数量为 15
+类别 财经 的 新闻数量为 14996
+类别 股市 的 新闻数量为 15775
+run /home/harry/miniconda3/envs/news_rec_py3/bin/python /home/harry/fun-rec/codes/news_recsys/news_rec_server/recprocess/offline.py success.
+ 
+2024-04-17-00-20-30
+a hot rec list are saved into redis.....
+类别 国内 的 新闻数量为 233
+类别 娱乐 的 新闻数量为 12
+类别 体育 的 新闻数量为 3325
+类别 科技 的 新闻数量为 2541
+类别 国内 的 新闻数量为 233
+类别 社会 的 新闻数量为 58
+类别 美股 的 新闻数量为 15
+类别 财经 的 新闻数量为 16123
+类别 股市 的 新闻数量为 16744
+类别 国内 的 新闻数量为 233
+类别 股市 的 新闻数量为 16744
+类别 体育 的 新闻数量为 3325
+类别 科技 的 新闻数量为 2541
+类别 国际 的 新闻数量为 138
+类别 国内 的 新闻数量为 233
+类别 军事 的 新闻数量为 0
+类别 社会 的 新闻数量为 58
+类别 美股 的 新闻数量为 15
+类别 财经 的 新闻数量为 16123
+类别 股市 的 新闻数量为 16744
+run /home/harry/miniconda3/envs/news_rec_py3/bin/python /home/harry/fun-rec/codes/news_recsys/news_rec_server/recprocess/offline.py success.
+ 
+2024-04-18-00-21-33
+a hot rec list are saved into redis.....
+类别 国内 的 新闻数量为 255
+类别 娱乐 的 新闻数量为 14
+类别 体育 的 新闻数量为 3506
+类别 科技 的 新闻数量为 2735
+类别 国内 的 新闻数量为 255
+类别 社会 的 新闻数量为 63
+类别 美股 的 新闻数量为 15
+类别 财经 的 新闻数量为 17143
+类别 股市 的 新闻数量为 17960
+类别 国内 的 新闻数量为 255
+类别 股市 的 新闻数量为 17960
+类别 体育 的 新闻数量为 3506
+类别 科技 的 新闻数量为 2735
+类别 国际 的 新闻数量为 147
+类别 国内 的 新闻数量为 255
+类别 军事 的 新闻数量为 0
+类别 社会 的 新闻数量为 63
+类别 美股 的 新闻数量为 15
+类别 财经 的 新闻数量为 17143
+类别 股市 的 新闻数量为 17960
+run /home/harry/miniconda3/envs/news_rec_py3/bin/python /home/harry/fun-rec/codes/news_recsys/news_rec_server/recprocess/offline.py success.
+ 
